@@ -1,7 +1,7 @@
 <template>
     <button>
         Test
-        <slot />
+        <ContentSlot/>
     </button>
 </template>
 
