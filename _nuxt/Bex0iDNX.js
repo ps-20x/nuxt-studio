@@ -1,0 +1,1 @@
+import{f as a}from"./Dnd51l0P.js";import{A as f,m as o,f as u,g as c,i as l}from"./B1p43wfn.js";const d=(e,t,r,...n)=>e[t]?f({...e,[t]:()=>a(e[t](),r==null?void 0:r.unwrap)},t,r,...n):f(e,t,r,...n),i={};function _(e,t){return u(),c("button",null,[t[0]||(t[0]=l(" Test ")),d(e.$slots,"default")])}const x=o(i,[["render",_]]);export{x as default};
